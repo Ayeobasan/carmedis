@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 
-import Animation from "@/public/Newimages/IMG_0412.JPG";
+import Animation from "@/public/Newimages/img2.jpg";
 import GooglePlay from "@/public/assets/svg/google-play.svg";
 import AppStore from "@/public/assets/svg/app-store.svg";
 import FadeUp from "@/components/common/FadeUp";
