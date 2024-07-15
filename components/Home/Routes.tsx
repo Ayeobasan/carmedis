@@ -39,10 +39,10 @@ const Routes = () => {
         <div className="elementor-wrapper m-auto elementor-open-inline">
           <iframe
             className="elementor-video"
-            frameborder="0"
-            allowfullscreen=""
+            // frameborder="0"
+            // allowfullscreen=""
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            referrerpolicy="strict-origin-when-cross-origin"
+            // referrerpolicy="strict-origin-when-cross-origin"
             title="Car Owner Explainer Video   Carmedis"
             width="640"
             height="360"
