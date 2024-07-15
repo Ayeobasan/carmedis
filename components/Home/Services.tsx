@@ -127,9 +127,9 @@ const Services = () => {
                     <p className="text-base lg:text-lg text-gray-500 group-hover:text-white truncate group-hover:text-wrap">
                       Unlock the freedom to go anywhere, anytime <br />
                       At Carmedis, we understand that breakdowns can happen
-                      anytime and anywhere. That's why we offer reliable and
+                      anytime and anywhere. Thats why we offer reliable and
                       efficient towing services to get you back on the road as
-                      quickly as possible. Whether it's a flat tire, engine
+                      quickly as possible. Whether its a flat tire, engine
                       trouble, or an accident, our skilled team is ready to
                       assist you 24/7. Trust Carmedis Towing Service to handle
                       your vehicle with care and professionalism.
@@ -166,7 +166,7 @@ const Services = () => {
                       Stay ahead of potential issues with Skanpro Remote
                       Diagnostic by Carmedis.
                       <br /> Our cutting-edge diagnostic technology allows us to
-                      monitor your vehicle's performance in real-time,
+                      monitor your vehicles performance in real-time,
                       identifying problems before they become serious. With
                       Skanpro, you can enjoy peace of mind knowing that your car
                       is under constant surveillance by experts, ensuring
