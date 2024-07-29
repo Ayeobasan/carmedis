@@ -183,9 +183,9 @@ const Navbar = () => {
       isDropdown: true,
       navs: solutionNavs,
     },
-    { title: "Products", path: "", isDropdown: true, navs: productNavs },
-    { title: "Opportunity", path: "", isDropdown: true, navs: opportunityNavs },
-    { title: "Resources", path: "", isDropdown: true, navs: resourcesNavs },
+    { title: "Products", path: "", isDropdown: false, navs: productNavs },
+    { title: "Opportunity", path: "", isDropdown: false, navs: opportunityNavs },
+    { title: "Resources", path: "", isDropdown: false, navs: resourcesNavs },
   ];
 
   useEffect(() => {

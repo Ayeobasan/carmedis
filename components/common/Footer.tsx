@@ -5,7 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 import GooglePlay from "@/public/assets/svg/google-play.svg";
-import Screens from "@/public/Newimages/img1.png";
+import Screens from "@/public/Newimages/ca.jpg";
 import AppStore from "@/public/assets/svg/app-store.svg";
 import Logo from "@/public/assets/images/Main-logo-2-blue-bkg.png";
 import LinkedIn from "@/public/assets/svg/linkedin-icon-gray.svg";
