@@ -451,7 +451,7 @@ const productNavs = [
 
 const opportunityNavs = [
   {
-    label: "Products",
+    // label: "Products",
     navs: [
       {
         title: "Analytics",
@@ -468,7 +468,7 @@ const opportunityNavs = [
     ],
   },
   {
-    label: "Resources",
+    // label: "Resources",
     navs: [
       {
         title: "Blog",
@@ -653,7 +653,7 @@ const Navbar = () => {
                           {item?.navs?.map((dropdownItem, idx) => (
                             <li key={idx}>
                               <p className="text-carmedis text-sm">
-                                {dropdownItem.label}
+                                {/* {dropdownItem.label} */}
                               </p>
                               <ul className="mt-0 space-y-6">
                                 {dropdownItem.navs.map((navItem, idx) => (
