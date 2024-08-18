@@ -24,7 +24,7 @@ const Fixa = () => {
             </div>
             {/* Image Column */}
             <div className="w-full md:w-1/2 px-4 mb-8">
-              <img
+              <Image
                 className="w-full h-auto object-cover"
                 src="https://www.carmedis.com/wp-content/uploads/2023/12/Carmedis-FIXA-scaled.webp"
                 alt="Mechanic in Lagos"
