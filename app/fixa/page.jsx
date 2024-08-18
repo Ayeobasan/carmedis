@@ -128,7 +128,7 @@ const Fixa = () => {
                     authorized auto shop within 4 minutes.
                   </p>
                   <p>
-                    Proceed with conversation with the auto shop via the app’s
+                    Proceed with conversation with the auto shop via the apps
                     chat features.
                   </p>
                 </div>

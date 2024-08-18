@@ -24,7 +24,7 @@ const HowItWorks = () => {
                 </li>
               </ul>
               <h2 className="text-2xl text-white  text-center font-bold mb-6">
-                Here's how Carmedis works and how to use
+                Heres how Carmedis works and how to use
               </h2>
               <p className="text-lg text-white  mb-12 text-center">
                 By following these steps, you can easily use the Carmedis app to
