@@ -56,7 +56,7 @@ const Fixa = () => {
                 </li>
               </ul>
               <h2 className="text-2xl text-white  text-center font-bold mb-6">
-                Here's the step-by-step guide on how to use the Carmedis app
+                Heres the step-by-step guide on how to use the Carmedis app
               </h2>
               <p className="text-lg text-white  mb-12 text-center">
                 By following these steps, you can easily use the Carmedis app to
