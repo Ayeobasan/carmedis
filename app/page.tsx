@@ -9,6 +9,7 @@ import {
   Socials,
 } from "@/components/Home";
 import "./globals.css";
+import About from "./about/page";
 
 export default function Home() {
   return (

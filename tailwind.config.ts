@@ -18,6 +18,27 @@ const config = {
       },
     },
     extend: {
+      keyframes: {
+        fadeInUp: {
+          '0%': { opacity: '0', transform: 'translateY(20px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+      },
+      animation: {
+        fadeInUp: 'fadeInUp 1s ease-out',
+      },
+        screens: {
+          xxs: "300px",
+          // => @media (min-width: 400px) { ... }
+          
+          sm: "641px",
+          // => @media (min-width: 640px) { ... }
+          md: "768px",
+          // => @media (min-width: 768px) { ... }
+          xd: "960px",
+          // => @media (min-width: 960px) { ... }
+         
+        },
       colors: {
         carmedis: "#0E4BA3",
 
